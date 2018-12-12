@@ -1,4 +1,4 @@
-# XamarinFormsGestureRecognizerDelaySample
+# XamarinForms GestureRecognizer issue 
 
 I've created a sample project with xamarin forms,
 simply it has a frame and a GestureRecognizers to receive tap event, and a label which shows tapped count on it.
